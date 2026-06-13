@@ -1,0 +1,720 @@
+state,district,cluster,cluster_label,mgnrega_gap_pct,health_insurance_gap_pct,combined_gap_score
+andaman and nicobar islands,nicobars,3,Moderate-gap Mixed,0.0,97.3,48.65
+andaman and nicobar islands,north  middle andaman,0,High-gap Rural Low-literacy,15.647921760391197,97.9,56.7739608801956
+andaman and nicobar islands,north and middle andaman,0,High-gap Rural Low-literacy,15.776499589153655,97.9,56.83824979457683
+andaman and nicobar islands,south andaman,2,Moderate-gap Mixed,15.647921760391197,98.8,57.2239608801956
+andhra pradesh,anantapur,1,Moderate-gap Rural,23.08688985985042,26.799999999999997,24.943444929925207
+andhra pradesh,chittoor,1,Moderate-gap Rural,17.361576665906178,29.299999999999997,23.330788332953087
+andhra pradesh,east godavari,1,Moderate-gap Rural,-0.8266151409054676,33.599999999999994,16.386692429547264
+andhra pradesh,guntur,1,Moderate-gap Rural,20.386778556443332,28.900000000000006,24.64338927822167
+andhra pradesh,krishna,1,Moderate-gap Rural,21.666482163119586,31.900000000000006,26.783241081559794
+andhra pradesh,kurnool,1,Moderate-gap Rural,24.860711675541257,26.700000000000003,25.780355837770628
+andhra pradesh,mahabubnagar,1,Moderate-gap Rural,11.658594831049413,28.900000000000006,20.27929741552471
+andhra pradesh,prakasam,1,Moderate-gap Rural,15.959673952844156,32.400000000000006,24.17983697642208
+andhra pradesh,sri potti sriramulu nello,1,Moderate-gap Rural,11.658594831049413,27.700000000000003,19.679297415524708
+andhra pradesh,sri potti sriramulu nellore,1,Moderate-gap Rural,11.658594831049413,28.900000000000006,20.27929741552471
+andhra pradesh,srikakulam,1,Moderate-gap Rural,9.3120769025562,24.400000000000006,16.856038451278103
+andhra pradesh,visakhapatnam,1,Moderate-gap Rural,11.658594831049413,35.099999999999994,23.379297415524704
+andhra pradesh,vizianagaram,1,Moderate-gap Rural,-15.894244447738878,23.299999999999997,3.70287777613056
+andhra pradesh,warangal rural,1,Moderate-gap Rural,11.658594831049413,28.900000000000006,20.27929741552471
+andhra pradesh,west godavari,1,Moderate-gap Rural,4.595522516858365,32.400000000000006,18.497761258429186
+andhra pradesh,ysr,1,Moderate-gap Rural,14.85804145595305,26.700000000000003,20.779020727976526
+arunachal pradesh,anjaw,3,Moderate-gap Mixed,3.0822835700884483,82.5,42.791141785044225
+arunachal pradesh,changlang,1,Moderate-gap Rural,0.34323984930933443,59.5,29.921619924654667
+arunachal pradesh,dibang valley,3,Moderate-gap Mixed,0.6596306068601583,71.3,35.97981530343008
+arunachal pradesh,east kameng,3,Moderate-gap Mixed,3.4454244762954827,74.9,39.172712238147746
+arunachal pradesh,east siang,3,Moderate-gap Mixed,0.6580149881191703,69.5,35.07900749405959
+arunachal pradesh,kra daadi,0,High-gap Rural Low-literacy,9.935438007119595,76.0,42.9677190035598
+arunachal pradesh,kurung kumey,3,Moderate-gap Mixed,11.209265802905373,86.6,48.904632901452686
+arunachal pradesh,lohit,3,Moderate-gap Mixed,0.0,68.1,34.05
+arunachal pradesh,longding,3,Moderate-gap Mixed,0.1906470786139056,76.2,38.195323539306955
+arunachal pradesh,lower dibang valley,3,Moderate-gap Mixed,0.9609120521172638,63.2,32.080456026058634
+arunachal pradesh,lower subansiri,3,Moderate-gap Mixed,13.969571230982014,75.5,44.734785615491006
+arunachal pradesh,namsai,3,Moderate-gap Mixed,0.06761241384873098,69.1,34.583806206924365
+arunachal pradesh,papum pare,3,Moderate-gap Mixed,4.546163038395594,73.1,38.82308151919779
+arunachal pradesh,siang,3,Moderate-gap Mixed,13.332948200671456,73.9,43.61647410033573
+arunachal pradesh,tawang,3,Moderate-gap Mixed,0.32386646736422525,66.5,33.41193323368211
+arunachal pradesh,tirap,3,Moderate-gap Mixed,0.1906470786138611,69.2,34.69532353930693
+arunachal pradesh,upper siang,3,Moderate-gap Mixed,1.4847512038523276,65.4,33.442375601926166
+arunachal pradesh,upper subansiri,3,Moderate-gap Mixed,0.2900270252455316,78.5,39.39501351262277
+arunachal pradesh,west kameng,3,Moderate-gap Mixed,1.281128544695552,61.7,31.49056427234778
+arunachal pradesh,west siang,0,High-gap Rural Low-literacy,48.34377797672336,73.4,60.87188898836168
+assam,baksa,1,Moderate-gap Rural,8.042801517471949,31.0,19.521400758735975
+assam,barpeta,1,Moderate-gap Rural,9.901425482795267,41.1,25.500712741397635
+assam,biswanath,1,Moderate-gap Rural,11.658089818866051,31.599999999999994,21.629044909433023
+assam,bongaigaon,1,Moderate-gap Rural,11.223195919862492,42.4,26.811597959931245
+assam,cachar,1,Moderate-gap Rural,13.982705172132484,42.1,28.041352586066242
+assam,charaideo,1,Moderate-gap Rural,12.540226038153572,35.099999999999994,23.820113019076782
+assam,chirang,1,Moderate-gap Rural,4.755862349000101,38.5,21.627931174500052
+assam,darrang,1,Moderate-gap Rural,19.501479032538715,46.3,32.900739516269354
+assam,dhemaji,1,Moderate-gap Rural,10.091807992834498,33.2,21.64590399641725
+assam,dhubri,1,Moderate-gap Rural,12.323054976407343,40.6,26.46152748820367
+assam,dibrugarh,1,Moderate-gap Rural,11.71158550384172,41.2,26.45579275192086
+assam,dima hasao,3,Moderate-gap Mixed,16.513011152416357,38.1,27.30650557620818
+assam,goalpara,1,Moderate-gap Rural,15.08158322020815,28.900000000000006,21.99079161010408
+assam,golaghat,1,Moderate-gap Rural,8.698440385799303,30.700000000000003,19.699220192899652
+assam,hailakandi,1,Moderate-gap Rural,17.73980384428111,46.4,32.06990192214055
+assam,hojai,1,Moderate-gap Rural,8.835348474924308,32.599999999999994,20.717674237462152
+assam,jorhat,1,Moderate-gap Rural,15.863550075741594,39.9,27.881775037870796
+assam,kamrup,1,Moderate-gap Rural,12.405331888621768,53.0,32.70266594431089
+assam,kamrup metropolitan,2,Moderate-gap Mixed,11.658089818866046,54.5,33.07904490943302
+assam,karbi anglong,3,Moderate-gap Mixed,8.51174586225306,45.9,27.205872931126528
+assam,karimganj,1,Moderate-gap Rural,11.743916684815966,35.599999999999994,23.67195834240798
+assam,kokrajhar,1,Moderate-gap Rural,7.164820730214647,49.8,28.48241036510732
+assam,lakhimpur,1,Moderate-gap Rural,6.251211987659762,33.0,19.62560599382988
+assam,majuli,1,Moderate-gap Rural,15.863550075741593,39.2,27.531775037870798
+assam,morigaon,1,Moderate-gap Rural,11.658089818866046,37.5,24.579044909433023
+assam,nagaon,1,Moderate-gap Rural,8.835348474924318,40.6,24.71767423746216
+assam,nalbari,1,Moderate-gap Rural,8.567901935190966,47.5,28.033950967595484
+assam,sivasagar,1,Moderate-gap Rural,12.540226038153612,39.3,25.920113019076805
+assam,sonitpur,1,Moderate-gap Rural,11.658089818866046,33.099999999999994,22.37904490943302
+assam,south salmara mancachar,1,Moderate-gap Rural,12.323054976407334,31.799999999999997,22.061527488203666
+assam,tinsukia,1,Moderate-gap Rural,14.82729089351984,40.0,27.413645446759922
+assam,udalguri,1,Moderate-gap Rural,6.7246471310217855,29.400000000000006,18.062323565510894
+assam,west karbi anglong,1,Moderate-gap Rural,8.511745862253061,36.9,22.705872931126528
+bihar,araria,0,High-gap Rural Low-literacy,19.9997766947473,80.5,50.24988834737365
+bihar,arwal,0,High-gap Rural Low-literacy,18.45735232984392,84.4,51.42867616492197
+bihar,aurangabad,0,High-gap Rural Low-literacy,12.314287146748667,84.6,48.45714357337433
+bihar,banka,0,High-gap Rural Low-literacy,20.242152337402757,86.4,53.32107616870138
+bihar,begusarai,0,High-gap Rural Low-literacy,18.275738449337865,86.8,52.53786922466893
+bihar,bhagalpur,0,High-gap Rural Low-literacy,22.1842583187121,83.7,52.94212915935605
+bihar,bhojpur,0,High-gap Rural Low-literacy,30.275280275280274,90.4,60.337640137640136
+bihar,buxar,0,High-gap Rural Low-literacy,20.3214803927111,88.6,54.460740196355545
+bihar,darbhanga,0,High-gap Rural Low-literacy,21.397170880387637,74.7,48.04858544019382
+bihar,gaya,0,High-gap Rural Low-literacy,17.420587838269878,90.3,53.86029391913494
+bihar,gopalganj,0,High-gap Rural Low-literacy,29.81715487803121,87.3,58.55857743901561
+bihar,jamui,0,High-gap Rural Low-literacy,16.114934139644806,85.7,50.9074670698224
+bihar,jehanabad,0,High-gap Rural Low-literacy,12.078044357650999,86.8,49.439022178825496
+bihar,kaimur (bhabua),0,High-gap Rural Low-literacy,16.542085317943194,81.9,49.2210426589716
+bihar,katihar,0,High-gap Rural Low-literacy,23.42840245851433,91.6,57.51420122925716
+bihar,khagaria,0,High-gap Rural Low-literacy,34.70006522237304,84.4,59.55003261118652
+bihar,kishanganj,0,High-gap Rural Low-literacy,15.611472199004478,91.9,53.75573609950224
+bihar,lakhisarai,0,High-gap Rural Low-literacy,15.41022058950346,84.9,50.155110294751736
+bihar,madhepura,0,High-gap Rural Low-literacy,18.019979591438805,90.5,54.259989795719406
+bihar,madhubani,0,High-gap Rural Low-literacy,17.250140084560133,80.8,49.02507004228006
+bihar,munger,0,High-gap Rural Low-literacy,20.783629591211277,84.8,52.79181479560564
+bihar,muzaffarpur,0,High-gap Rural Low-literacy,22.814704269187107,86.8,54.80735213459355
+bihar,nalanda,0,High-gap Rural Low-literacy,10.95357559170848,87.2,49.076787795854244
+bihar,nawada,0,High-gap Rural Low-literacy,13.564481774705623,91.9,52.732240887352816
+bihar,pashchim champaran,0,High-gap Rural Low-literacy,20.52431837582664,80.0,50.26215918791332
+bihar,patna,0,High-gap Rural Low-literacy,15.392863707849106,89.8,52.59643185392455
+bihar,purba champaran,0,High-gap Rural Low-literacy,15.717352160245781,80.6,48.15867608012289
+bihar,purnia,0,High-gap Rural Low-literacy,15.624131220461496,89.8,52.712065610230745
+bihar,rohtas,0,High-gap Rural Low-literacy,17.793188684427356,82.8,50.29659434221368
+bihar,saharsa,0,High-gap Rural Low-literacy,13.090182363227578,87.2,50.14509118161379
+bihar,samastipur,0,High-gap Rural Low-literacy,25.42631638384996,81.0,53.21315819192498
+bihar,saran,0,High-gap Rural Low-literacy,19.508481225605255,90.6,55.05424061280262
+bihar,sheikhpura,0,High-gap Rural Low-literacy,10.191869300911854,90.3,50.24593465045592
+bihar,sheohar,0,High-gap Rural Low-literacy,15.233144700791232,81.9,48.56657235039562
+bihar,sitamarhi,0,High-gap Rural Low-literacy,27.521063202650183,79.3,53.41053160132509
+bihar,siwan,0,High-gap Rural Low-literacy,25.127578523682885,91.8,58.46378926184144
+bihar,supaul,0,High-gap Rural Low-literacy,18.732642244580312,85.8,52.26632112229015
+bihar,vaishali,0,High-gap Rural Low-literacy,16.437978449370533,86.5,51.46898922468527
+chandigarh,chandigarh,2,Moderate-gap Mixed,11.038350670510088,67.8,39.41917533525504
+chhattisgarh,balod,1,Moderate-gap Rural,6.935129932627526,20.5,13.717564966313763
+chhattisgarh,baloda bazar,1,Moderate-gap Rural,13.123731183487688,33.900000000000006,23.51186559174385
+chhattisgarh,balrampur,1,Moderate-gap Rural,16.27372637529102,37.7,26.98686318764551
+chhattisgarh,bastar,1,Moderate-gap Rural,22.535953891747422,30.700000000000003,26.617976945873714
+chhattisgarh,bemetara,1,Moderate-gap Rural,31.802034833591996,36.6,34.201017416796
+chhattisgarh,bijapur,1,Moderate-gap Rural,0.9406751884627991,26.5,13.720337594231399
+chhattisgarh,bilaspur,1,Moderate-gap Rural,13.937449979991994,39.6,26.768724989996
+chhattisgarh,dakshin bastar dantewada,1,Moderate-gap Rural,21.572778052351335,26.0,23.78638902617567
+chhattisgarh,dantewada,1,Moderate-gap Rural,9.885735854236009,17.799999999999997,13.842867927118004
+chhattisgarh,dhamtari,1,Moderate-gap Rural,6.540698745972885,13.200000000000003,9.870349372986444
+chhattisgarh,durg,1,Moderate-gap Rural,10.598148013829453,33.0,21.799074006914726
+chhattisgarh,gariyaband,1,Moderate-gap Rural,6.604077253218884,20.200000000000003,13.402038626609443
+chhattisgarh,janjgir  champa,1,Moderate-gap Rural,21.572778052351335,26.0,23.78638902617567
+chhattisgarh,jashpur,1,Moderate-gap Rural,19.5569881188861,19.400000000000006,19.47849405944305
+chhattisgarh,kabeerdham,1,Moderate-gap Rural,21.572778052351335,27.900000000000006,24.736389026175672
+chhattisgarh,kodagaon,1,Moderate-gap Rural,21.572778052351335,19.400000000000006,20.486389026175672
+chhattisgarh,korba,1,Moderate-gap Rural,15.599703964105649,39.4,27.499851982052824
+chhattisgarh,koriya,1,Moderate-gap Rural,21.572778052351335,37.2,29.38638902617567
+chhattisgarh,mahasamund,1,Moderate-gap Rural,28.38145574369515,23.799999999999997,26.090727871847573
+chhattisgarh,mungeli,1,Moderate-gap Rural,24.115053671835067,32.0,28.057526835917535
+chhattisgarh,narayanpur,1,Moderate-gap Rural,10.868924889543447,16.900000000000006,13.884462444771726
+chhattisgarh,raigarh,1,Moderate-gap Rural,38.35129685001043,33.7,36.025648425005215
+chhattisgarh,raipur,1,Moderate-gap Rural,15.850580046403712,23.099999999999994,19.475290023201854
+chhattisgarh,rajnandgaon,1,Moderate-gap Rural,6.266546095837443,19.200000000000003,12.733273047918722
+chhattisgarh,sukma,1,Moderate-gap Rural,5.316569192835164,21.900000000000006,13.608284596417585
+chhattisgarh,surajpur,1,Moderate-gap Rural,12.075113495666528,24.299999999999997,18.187556747833263
+chhattisgarh,surguja,1,Moderate-gap Rural,25.482699679380204,34.900000000000006,30.191349839690105
+chhattisgarh,uttar bastar kanker,1,Moderate-gap Rural,21.572778052351335,15.200000000000003,18.38638902617567
+dadra and nagar haveli & daman and diu,dadra  nagar haveli,1,Moderate-gap Rural,11.038350670510088,41.2,26.119175335255044
+dadra and nagar haveli & daman and diu,daman,2,Moderate-gap Mixed,11.038350670510088,67.1,39.06917533525504
+dadra and nagar haveli & daman and diu,diu,1,Moderate-gap Rural,11.038350670510088,36.0,23.519175335255042
+delhi,central,2,Moderate-gap Mixed,11.038350670510088,77.4,44.219175335255045
+delhi,east,2,Moderate-gap Mixed,11.038350670510088,69.3,40.16917533525504
+delhi,new delhi,2,Moderate-gap Mixed,11.038350670510088,74.8,42.91917533525504
+delhi,north,2,Moderate-gap Mixed,11.038350670510088,81.9,46.469175335255045
+delhi,north east,2,Moderate-gap Mixed,11.038350670510088,80.6,45.81917533525504
+delhi,north west,2,Moderate-gap Mixed,11.038350670510088,71.8,41.41917533525504
+delhi,shahdara,2,Moderate-gap Mixed,11.038350670510088,78.5,44.76917533525504
+delhi,south,2,Moderate-gap Mixed,11.038350670510088,71.3,41.16917533525504
+delhi,south east,2,Moderate-gap Mixed,11.038350670510088,75.5,43.26917533525504
+delhi,south west,2,Moderate-gap Mixed,11.038350670510088,62.3,36.66917533525504
+delhi,west,2,Moderate-gap Mixed,11.038350670510088,79.0,45.01917533525504
+goa,north goa,2,Moderate-gap Mixed,4.23228346456693,35.2,19.716141732283468
+goa,south goa,2,Moderate-gap Mixed,0.4120879120879121,32.3,16.356043956043955
+gujarat,ahmadabad,2,Moderate-gap Mixed,7.15364288410721,63.8,35.476821442053605
+gujarat,amreli,2,Moderate-gap Mixed,12.661355073806435,52.3,32.480677536903215
+gujarat,anand,2,Moderate-gap Mixed,26.346362114797678,63.8,45.07318105739884
+gujarat,aravali,2,Moderate-gap Mixed,10.430810227777425,56.1,33.26540511388871
+gujarat,banas kantha,0,High-gap Rural Low-literacy,14.275226750657163,59.0,36.637613375328584
+gujarat,bharuch,2,Moderate-gap Mixed,17.739198538049862,62.6,40.16959926902493
+gujarat,bhavnagar,2,Moderate-gap Mixed,19.264802993616552,67.8,43.532401496808276
+gujarat,botad,2,Moderate-gap Mixed,14.52821670428894,62.0,38.26410835214447
+gujarat,chhota udaipur,0,High-gap Rural Low-literacy,10.430810227777425,60.0,35.215405113888714
+gujarat,devbhumi dwarka,2,Moderate-gap Mixed,8.664949738306873,66.5,37.58247486915344
+gujarat,dohad,0,High-gap Rural Low-literacy,13.813920941783406,59.7,36.756960470891705
+gujarat,gandhinagar,2,Moderate-gap Mixed,11.629569123953441,70.3,40.96478456197672
+gujarat,gir somnath,2,Moderate-gap Mixed,14.80817002484131,53.4,34.104085012420654
+gujarat,jamnagar,2,Moderate-gap Mixed,8.664949738306877,61.4,35.03247486915344
+gujarat,junagadh,2,Moderate-gap Mixed,14.80817002484129,52.7,33.754085012420646
+gujarat,kachchh,2,Moderate-gap Mixed,14.572549774899487,65.7,40.136274887449744
+gujarat,kheda,2,Moderate-gap Mixed,11.291060481288309,67.8,39.545530240644155
+gujarat,mahesana,2,Moderate-gap Mixed,8.07514186941491,59.3,33.68757093470745
+gujarat,mahisagar,2,Moderate-gap Mixed,9.186449201179634,54.0,31.593224600589817
+gujarat,morbi,2,Moderate-gap Mixed,21.171055995908976,65.6,43.38552799795448
+gujarat,narmada,3,Moderate-gap Mixed,6.928383612768243,48.9,27.91419180638412
+gujarat,navsari,2,Moderate-gap Mixed,10.906862745098039,58.0,34.45343137254902
+gujarat,panch mahals,0,High-gap Rural Low-literacy,9.087673508126729,66.0,37.54383675406336
+gujarat,patan,1,Moderate-gap Rural,9.898948236749845,49.8,29.84947411837492
+gujarat,porbandar,2,Moderate-gap Mixed,16.060874704491727,57.9,36.980437352245865
+gujarat,rajkot,2,Moderate-gap Mixed,14.425010052271814,54.9,34.662505026135904
+gujarat,sabar kantha,1,Moderate-gap Rural,16.931648321782838,50.7,33.815824160891424
+gujarat,surat,2,Moderate-gap Mixed,2.98582995951417,68.4,35.69291497975709
+gujarat,surendranagar,2,Moderate-gap Mixed,9.259182916271591,49.6,29.429591458135796
+gujarat,tapi,3,Moderate-gap Mixed,15.649592289078226,57.7,36.674796144539116
+gujarat,the dangs,3,Moderate-gap Mixed,10.430810227777425,55.7,33.065405113888716
+gujarat,vadodara,2,Moderate-gap Mixed,27.646977832851427,58.3,42.97348891642571
+gujarat,valsad,2,Moderate-gap Mixed,11.4639533620596,59.4,35.4319766810298
+haryana,ambala,2,Moderate-gap Mixed,13.6090573012939,81.0,47.30452865064695
+haryana,bhiwani,2,Moderate-gap Mixed,25.607929007721552,71.8,48.703964503860774
+haryana,charkhi dadri,2,Moderate-gap Mixed,9.078609119199026,70.3,39.68930455959951
+haryana,faridabad,2,Moderate-gap Mixed,0.5279831045406547,67.2,33.86399155227033
+haryana,fatehabad,0,High-gap Rural Low-literacy,10.451039851006422,70.6,40.52551992550321
+haryana,gurgaon,2,Moderate-gap Mixed,9.078609119199026,65.4,37.23930455959952
+haryana,hisar,2,Moderate-gap Mixed,19.31281550236118,72.1,45.706407751180585
+haryana,jhajjar,2,Moderate-gap Mixed,8.705701078582434,73.0,40.85285053929122
+haryana,jind,2,Moderate-gap Mixed,17.145017825632898,76.3,46.72250891281645
+haryana,kaithal,0,High-gap Rural Low-literacy,15.039929015084294,70.9,42.96996450754215
+haryana,karnal,2,Moderate-gap Mixed,6.833021564959588,75.4,41.1165107824798
+haryana,kurukshetra,2,Moderate-gap Mixed,15.27839151568714,80.8,48.03919575784357
+haryana,mahendragarh,2,Moderate-gap Mixed,17.92864476386037,74.4,46.16432238193019
+haryana,mewat,0,High-gap Rural Low-literacy,9.078609119199026,88.5,48.789304559599515
+haryana,palwal,0,High-gap Rural Low-literacy,13.89114541023558,76.5,45.19557270511779
+haryana,panchkula,2,Moderate-gap Mixed,10.09104704097117,80.1,45.095523520485585
+haryana,panipat,2,Moderate-gap Mixed,6.093238822246456,73.5,39.79661941112323
+haryana,rewari,2,Moderate-gap Mixed,15.714285714285714,74.7,45.207142857142856
+haryana,rohtak,2,Moderate-gap Mixed,9.078609119199026,75.2,42.139304559599516
+haryana,sirsa,0,High-gap Rural Low-literacy,32.05175509802475,73.4,52.72587754901238
+haryana,sonipat,2,Moderate-gap Mixed,20.260406391793254,77.6,48.930203195896624
+haryana,yamunanagar,2,Moderate-gap Mixed,16.666666666666664,79.4,48.03333333333333
+himachal pradesh,bilaspur,2,Moderate-gap Mixed,13.545766686207186,64.6,39.07288334310359
+himachal pradesh,chamba,3,Moderate-gap Mixed,5.415253035443508,73.2,39.30762651772176
+himachal pradesh,hamirpur,2,Moderate-gap Mixed,9.751051191350196,68.0,38.8755255956751
+himachal pradesh,kangra,2,Moderate-gap Mixed,10.500861136700443,63.6,37.05043056835022
+himachal pradesh,kinnaur,3,Moderate-gap Mixed,3.1849838627484286,64.1,33.64249193137421
+himachal pradesh,kullu,2,Moderate-gap Mixed,5.788696294365525,73.2,39.49434814718276
+himachal pradesh,lahul  spiti,2,Moderate-gap Mixed,9.709070520807376,68.8,39.254535260403685
+himachal pradesh,lahul and spiti,3,Moderate-gap Mixed,5.860491709548313,66.3,36.080245854774155
+himachal pradesh,mandi,2,Moderate-gap Mixed,6.123952158815896,58.7,32.41197607940795
+himachal pradesh,shimla,2,Moderate-gap Mixed,7.094920281794587,62.9,34.997460140897296
+himachal pradesh,sirmaur,2,Moderate-gap Mixed,9.672332223585071,73.8,41.736166111792535
+himachal pradesh,solan,2,Moderate-gap Mixed,13.416200113000155,58.1,35.758100056500076
+himachal pradesh,una,2,Moderate-gap Mixed,7.725775111937145,77.4,42.56288755596857
+jammu and kashmir,anantnag,0,High-gap Rural Low-literacy,17.691477885652642,92.7,55.195738942826324
+jammu and kashmir,bandipora,0,High-gap Rural Low-literacy,17.571177772689108,90.9,54.23558888634456
+jammu and kashmir,baramulla,0,High-gap Rural Low-literacy,43.050048226342305,93.5,68.27502411317116
+jammu and kashmir,budgam,0,High-gap Rural Low-literacy,23.128637679355098,94.8,58.964318839677546
+jammu and kashmir,doda,0,High-gap Rural Low-literacy,2.9870353283393025,92.4,47.693517664169654
+jammu and kashmir,ganderbal,0,High-gap Rural Low-literacy,16.87752706404069,91.7,54.28876353202035
+jammu and kashmir,jammu,2,Moderate-gap Mixed,10.482226752947433,76.7,43.591113376473714
+jammu and kashmir,kargil,0,High-gap Rural Low-literacy,19.06751739766317,90.45,54.758758698831585
+jammu and kashmir,kathua,0,High-gap Rural Low-literacy,11.637020481890826,93.0,52.318510240945415
+jammu and kashmir,kishtwar,0,High-gap Rural Low-literacy,3.5151808845730903,83.6,43.55759044228654
+jammu and kashmir,kulgam,0,High-gap Rural Low-literacy,16.750739843960183,95.8,56.27536992198009
+jammu and kashmir,kupwara,0,High-gap Rural Low-literacy,16.032685263454493,89.6,52.816342631727245
+jammu and kashmir,leh,0,High-gap Rural Low-literacy,19.06751739766317,90.45,54.758758698831585
+jammu and kashmir,poonch,0,High-gap Rural Low-literacy,5.545131345052341,88.9,47.22256567252617
+jammu and kashmir,pulwama,0,High-gap Rural Low-literacy,33.99117529081428,90.1,62.04558764540714
+jammu and kashmir,rajouri,0,High-gap Rural Low-literacy,8.428893462707048,83.6,46.01444673135352
+jammu and kashmir,ramban,0,High-gap Rural Low-literacy,9.546353872244206,90.8,50.173176936122104
+jammu and kashmir,reasi,0,High-gap Rural Low-literacy,6.418825191051476,88.8,47.60941259552574
+jammu and kashmir,samba,2,Moderate-gap Mixed,10.257970309077633,81.0,45.62898515453882
+jammu and kashmir,shopian,0,High-gap Rural Low-literacy,23.59578894282292,91.6,57.59789447141146
+jammu and kashmir,srinagar,2,Moderate-gap Mixed,25.89838909541512,82.1,53.99919454770756
+jammu and kashmir,udhampur,0,High-gap Rural Low-literacy,10.122291638973815,83.2,46.66114581948691
+jharkhand,bokaro,2,Moderate-gap Mixed,13.782632342277012,55.3,34.541316171138504
+jharkhand,chatra,1,Moderate-gap Rural,10.768475726964134,53.5,32.13423786348207
+jharkhand,deoghar,1,Moderate-gap Rural,13.735905844301694,46.2,29.96795292215085
+jharkhand,dhanbad,2,Moderate-gap Mixed,22.137838324764054,54.3,38.21891916238202
+jharkhand,dumka,0,High-gap Rural Low-literacy,14.222177297078742,54.6,34.41108864853937
+jharkhand,garhwa,1,Moderate-gap Rural,12.15679829066853,44.7,28.428399145334268
+jharkhand,giridih,1,Moderate-gap Rural,11.826852531181217,47.6,29.71342626559061
+jharkhand,godda,0,High-gap Rural Low-literacy,13.430431921305116,54.1,33.76521596065256
+jharkhand,gumla,1,Moderate-gap Rural,11.8066868357769,48.3,30.05334341788845
+jharkhand,hazaribagh,1,Moderate-gap Rural,18.95560944749051,45.0,31.977804723745255
+jharkhand,jamtara,1,Moderate-gap Rural,8.26803007135576,37.1,22.68401503567788
+jharkhand,khunti,1,Moderate-gap Rural,15.162423930744836,41.8,28.481211965372417
+jharkhand,kodarma,1,Moderate-gap Rural,20.18376595479302,43.2,31.69188297739651
+jharkhand,latehar,1,Moderate-gap Rural,14.667534122895534,47.8,31.233767061447764
+jharkhand,lohardaga,1,Moderate-gap Rural,13.779543855292022,41.1,27.439771927646014
+jharkhand,pakur,0,High-gap Rural Low-literacy,16.15378592122778,47.5,31.82689296061389
+jharkhand,palamu,1,Moderate-gap Rural,11.385276158277849,44.2,27.792638079138925
+jharkhand,pashchimi singhbhum,0,High-gap Rural Low-literacy,20.18376595479302,53.3,36.74188297739651
+jharkhand,purbi singhbhum,2,Moderate-gap Mixed,20.18376595479302,49.3,34.74188297739651
+jharkhand,ramgarh,1,Moderate-gap Rural,17.01414414679331,50.3,33.657072073396655
+jharkhand,ranchi,2,Moderate-gap Mixed,18.837427213707247,56.1,37.468713606853626
+jharkhand,sahibganj,0,High-gap Rural Low-literacy,20.18376595479302,65.2,42.69188297739651
+jharkhand,saraikelakharsawan,1,Moderate-gap Rural,20.18376595479302,36.9,28.54188297739651
+jharkhand,simdega,1,Moderate-gap Rural,13.733867770779193,39.4,26.566933885389595
+karnataka,bagalkot,0,High-gap Rural Low-literacy,12.471617725846366,77.7,45.08580886292319
+karnataka,ballari,0,High-gap Rural Low-literacy,8.358550446527419,74.3,41.32927522326371
+karnataka,belagavi,0,High-gap Rural Low-literacy,10.393053187702568,79.3,44.84652659385128
+karnataka,bengaluru,2,Moderate-gap Mixed,12.471617725846366,71.2,41.83580886292319
+karnataka,bengaluru rural,2,Moderate-gap Mixed,11.32681306514117,65.1,38.21340653257058
+karnataka,bidar,0,High-gap Rural Low-literacy,10.583037247780998,78.6,44.591518623890494
+karnataka,bijapur,0,High-gap Rural Low-literacy,12.471617725846366,78.8,45.635808862923184
+karnataka,chamarajanagar,0,High-gap Rural Low-literacy,12.471617725846366,65.6,39.03580886292318
+karnataka,chikkaballapura,0,High-gap Rural Low-literacy,11.187800963081862,73.9,42.54390048154093
+karnataka,chikkamagaluru,2,Moderate-gap Mixed,6.566009942920273,70.0,38.28300497146014
+karnataka,chitradurga,3,Moderate-gap Mixed,7.0971103362590675,64.7,35.89855516812953
+karnataka,dakshina kannada,2,Moderate-gap Mixed,3.505984926850894,63.7,33.60299246342545
+karnataka,davanagere,2,Moderate-gap Mixed,12.471617725846366,74.8,43.635808862923184
+karnataka,dharwad,2,Moderate-gap Mixed,10.152771715408118,75.5,42.82638585770406
+karnataka,gadag,2,Moderate-gap Mixed,9.172157661435246,71.7,40.436078830717626
+karnataka,hassan,2,Moderate-gap Mixed,9.711643926891025,63.1,36.40582196344551
+karnataka,haveri,0,High-gap Rural Low-literacy,12.471617725846366,71.2,41.83580886292319
+karnataka,kalaburagi,0,High-gap Rural Low-literacy,13.229480764100533,82.6,47.91474038205026
+karnataka,kodagu,2,Moderate-gap Mixed,10.40886002165043,54.4,32.404430010825216
+karnataka,kolar,2,Moderate-gap Mixed,9.512136173738908,66.1,37.80606808686945
+karnataka,koppal,0,High-gap Rural Low-literacy,9.001409043497356,79.4,44.20070452174868
+karnataka,mandya,1,Moderate-gap Rural,9.028353845107771,60.1,34.564176922553884
+karnataka,mysuru,2,Moderate-gap Mixed,9.261688530104271,73.8,41.53084426505213
+karnataka,raichur,0,High-gap Rural Low-literacy,6.185200086657795,82.2,44.1926000433289
+karnataka,ramanagara,2,Moderate-gap Mixed,5.816339617801718,64.3,35.05816980890086
+karnataka,shivamogga,2,Moderate-gap Mixed,10.300708326134897,73.5,41.90035416306745
+karnataka,tumakuru,2,Moderate-gap Mixed,10.108231982078637,69.0,39.55411599103932
+karnataka,udupi,2,Moderate-gap Mixed,11.462230358990686,49.1,30.281115179495345
+karnataka,uttara kannada,2,Moderate-gap Mixed,10.966275455768427,68.0,39.48313772788421
+karnataka,yadgir,0,High-gap Rural Low-literacy,8.730227959990696,83.3,46.01511397999535
+kerala,alappuzha,2,Moderate-gap Mixed,4.3266844625682435,39.6,21.963342231284123
+kerala,ernakulam,2,Moderate-gap Mixed,10.260216359669839,53.8,32.03010817983492
+kerala,idukki,1,Moderate-gap Rural,7.121692127712263,41.9,24.510846063856132
+kerala,kannur,2,Moderate-gap Mixed,10.605705091677002,52.1,31.352852545838502
+kerala,kasaragod,2,Moderate-gap Mixed,11.709617340536543,56.0,33.85480867026827
+kerala,kollam,2,Moderate-gap Mixed,15.688079311011965,44.0,29.84403965550598
+kerala,kottayam,2,Moderate-gap Mixed,11.064965029922849,46.8,28.93248251496142
+kerala,kozhikode,2,Moderate-gap Mixed,8.192436653241758,38.9,23.546218326620878
+kerala,malappuram,2,Moderate-gap Mixed,14.890125988866101,57.2,36.04506299443305
+kerala,palakkad,2,Moderate-gap Mixed,7.214611325094795,46.2,26.707305662547398
+kerala,pathanamthitta,2,Moderate-gap Mixed,7.1761616378155315,49.9,28.538080818907765
+kerala,thiruvananthapuram,2,Moderate-gap Mixed,8.115627727380922,51.3,29.70781386369046
+kerala,thrissur,2,Moderate-gap Mixed,10.33048373644704,51.3,30.815241868223517
+kerala,wayanad,1,Moderate-gap Rural,10.909520713905797,35.2,23.0547603569529
+ladakh,kargil,0,High-gap Rural Low-literacy,0.7710395362826051,86.4,43.5855197681413
+ladakh,leh,0,High-gap Rural Low-literacy,0.7710395362826051,83.8,42.2855197681413
+lakshadweep,lakshadweep,3,Moderate-gap Mixed,11.038350670510088,39.9,25.469175335255045
+madhya pradesh,agar malwa,1,Moderate-gap Rural,11.685242379481672,41.1,26.392621189740836
+madhya pradesh,alirajpur,0,High-gap Rural Low-literacy,16.603131129945595,57.5,37.0515655649728
+madhya pradesh,anuppur,1,Moderate-gap Rural,8.121311956313255,47.2,27.66065597815663
+madhya pradesh,ashoknagar,0,High-gap Rural Low-literacy,7.0860810912464585,65.8,36.44304054562323
+madhya pradesh,balaghat,1,Moderate-gap Rural,8.100848484848484,31.599999999999994,19.85042424242424
+madhya pradesh,barwani,0,High-gap Rural Low-literacy,15.274553320310503,70.8,43.03727666015525
+madhya pradesh,betul,1,Moderate-gap Rural,18.94600177889995,48.7,33.82300088944998
+madhya pradesh,bhind,0,High-gap Rural Low-literacy,11.331795231885513,69.0,40.165897615942754
+madhya pradesh,bhopal,2,Moderate-gap Mixed,7.957191474117859,49.3,28.628595737058927
+madhya pradesh,burhanpur,0,High-gap Rural Low-literacy,15.510680088386938,57.8,36.655340044193466
+madhya pradesh,chhatarpur,0,High-gap Rural Low-literacy,19.96530985077078,82.9,51.43265492538539
+madhya pradesh,chhindwara,1,Moderate-gap Rural,13.642014615361289,51.5,32.571007307680645
+madhya pradesh,damoh,0,High-gap Rural Low-literacy,23.39297548045063,78.4,50.89648774022532
+madhya pradesh,datia,0,High-gap Rural Low-literacy,20.079187902784213,69.1,44.589593951392104
+madhya pradesh,dewas,0,High-gap Rural Low-literacy,20.272957691557806,64.9,42.586478845778906
+madhya pradesh,dhar,0,High-gap Rural Low-literacy,15.264045825486502,69.7,42.482022912743254
+madhya pradesh,dindori,3,Moderate-gap Mixed,6.203116163154199,52.8,29.501558081577098
+madhya pradesh,guna,0,High-gap Rural Low-literacy,27.94181961824415,56.9,42.42090980912207
+madhya pradesh,gwalior,2,Moderate-gap Mixed,11.334054967394461,59.4,35.36702748369723
+madhya pradesh,harda,0,High-gap Rural Low-literacy,12.484744383673101,66.7,39.59237219183655
+madhya pradesh,hoshangabad,0,High-gap Rural Low-literacy,24.066167190311234,71.4,47.73308359515562
+madhya pradesh,indore,2,Moderate-gap Mixed,14.201487812598923,59.7,36.950743906299465
+madhya pradesh,jabalpur,2,Moderate-gap Mixed,14.72210564182505,38.8,26.761052820912525
+madhya pradesh,jhabua,0,High-gap Rural Low-literacy,13.270777479892763,56.3,34.78538873994638
+madhya pradesh,katni,0,High-gap Rural Low-literacy,10.412788218531269,81.9,46.156394109265634
+madhya pradesh,khandwa (east nimar),0,High-gap Rural Low-literacy,15.190872084543273,61.9,38.54543604227163
+madhya pradesh,khargone (west nimar),0,High-gap Rural Low-literacy,15.190872084543273,56.3,35.745436042271635
+madhya pradesh,mandla,3,Moderate-gap Mixed,9.41934212902414,57.4,33.40967106451207
+madhya pradesh,mandsaur,1,Moderate-gap Rural,13.31295707028415,51.6,32.456478535142075
+madhya pradesh,morena,1,Moderate-gap Rural,6.5250215703192405,63.7,35.11251078515962
+madhya pradesh,narsimhapur,1,Moderate-gap Rural,15.190872084543273,50.6,32.89543604227164
+madhya pradesh,neemuch,0,High-gap Rural Low-literacy,16.595605116431617,56.7,36.64780255821581
+madhya pradesh,panna,0,High-gap Rural Low-literacy,20.280771105214708,87.4,53.84038555260736
+madhya pradesh,raisen,0,High-gap Rural Low-literacy,17.21524208934188,59.0,38.10762104467094
+madhya pradesh,rajgarh,0,High-gap Rural Low-literacy,10.160133473227953,72.9,41.53006673661398
+madhya pradesh,ratlam,0,High-gap Rural Low-literacy,12.752070002422721,62.1,37.42603500121136
+madhya pradesh,rewa,0,High-gap Rural Low-literacy,19.89684708193903,70.6,45.24842354096951
+madhya pradesh,sagar,0,High-gap Rural Low-literacy,23.418613145033653,72.5,47.95930657251682
+madhya pradesh,satna,0,High-gap Rural Low-literacy,13.080544300536337,78.0,45.540272150268166
+madhya pradesh,sehore,0,High-gap Rural Low-literacy,23.35252584685215,66.8,45.07626292342607
+madhya pradesh,seoni,1,Moderate-gap Rural,11.12002236807252,55.4,33.26001118403626
+madhya pradesh,shahdol,1,Moderate-gap Rural,18.83761868712205,41.6,30.218809343561027
+madhya pradesh,shajapur,0,High-gap Rural Low-literacy,7.438956457153467,65.7,36.569478228576735
+madhya pradesh,sheopur,0,High-gap Rural Low-literacy,16.6695437924703,72.9,44.784771896235156
+madhya pradesh,shivpuri,0,High-gap Rural Low-literacy,14.478733792038511,61.1,37.78936689601926
+madhya pradesh,sidhi,0,High-gap Rural Low-literacy,14.808658484765166,73.9,44.35432924238258
+madhya pradesh,singrauli,1,Moderate-gap Rural,11.685591182841772,41.5,26.592795591420888
+madhya pradesh,tikamgarh,0,High-gap Rural Low-literacy,12.463878871826708,59.5,35.981939435913354
+madhya pradesh,ujjain,0,High-gap Rural Low-literacy,11.531431622615159,64.3,37.91571581130758
+madhya pradesh,umaria,0,High-gap Rural Low-literacy,14.140922069310816,80.1,47.120461034655406
+madhya pradesh,vidisha,1,Moderate-gap Rural,12.412884294040131,51.8,32.10644214702006
+maharashtra,ahmadnagar,2,Moderate-gap Mixed,13.005112574968047,88.0,50.502556287484026
+maharashtra,akola,2,Moderate-gap Mixed,10.946685586863977,59.9,35.423342793431985
+maharashtra,amravati,2,Moderate-gap Mixed,8.564922877585435,68.1,38.33246143879271
+maharashtra,aurangabad,2,Moderate-gap Mixed,13.005112574968047,87.6,50.30255628748402
+maharashtra,bhandara,2,Moderate-gap Mixed,14.872172474129671,70.0,42.436086237064835
+maharashtra,bid,0,High-gap Rural Low-literacy,13.005112574968047,90.7,51.85255628748403
+maharashtra,buldana,2,Moderate-gap Mixed,13.005112574968047,62.1,37.55255628748402
+maharashtra,chandrapur,2,Moderate-gap Mixed,11.557961154284218,71.1,41.328980577142104
+maharashtra,dhule,0,High-gap Rural Low-literacy,9.091925743681504,80.2,44.64596287184075
+maharashtra,gadchiroli,3,Moderate-gap Mixed,11.398786527670463,66.7,39.049393263835235
+maharashtra,gondiya,2,Moderate-gap Mixed,13.005112574968047,69.4,41.20255628748403
+maharashtra,hingoli,0,High-gap Rural Low-literacy,9.017088296970508,85.3,47.158544148485255
+maharashtra,jalgaon,2,Moderate-gap Mixed,8.956140872426026,88.1,48.528070436213014
+maharashtra,jalna,0,High-gap Rural Low-literacy,22.589892546607434,90.3,56.444946273303714
+maharashtra,kolhapur,2,Moderate-gap Mixed,5.228841728458194,83.5,44.364420864229096
+maharashtra,latur,2,Moderate-gap Mixed,8.552140368342458,66.4,37.476070184171235
+maharashtra,mumbai,2,Moderate-gap Mixed,13.005112574968047,69.3,41.152556287484025
+maharashtra,mumbai suburban,2,Moderate-gap Mixed,13.005112574968047,79.8,46.402556287484025
+maharashtra,nagpur,2,Moderate-gap Mixed,5.1747474259196595,74.4,39.787373712959834
+maharashtra,nanded,0,High-gap Rural Low-literacy,11.962799462581355,84.3,48.13139973129068
+maharashtra,nandurbar,0,High-gap Rural Low-literacy,7.917842583882095,84.7,46.30892129194105
+maharashtra,nashik,2,Moderate-gap Mixed,6.910946196660482,85.3,46.105473098330236
+maharashtra,osmanabad,2,Moderate-gap Mixed,19.024556828412653,85.2,52.11227841420633
+maharashtra,palghar,2,Moderate-gap Mixed,8.410569907316116,81.2,44.80528495365806
+maharashtra,parbhani,0,High-gap Rural Low-literacy,18.056405028882093,89.5,53.77820251444105
+maharashtra,pune,2,Moderate-gap Mixed,10.857508532423209,85.6,48.2287542662116
+maharashtra,raigarh,2,Moderate-gap Mixed,13.005112574968047,73.7,43.35255628748403
+maharashtra,ratnagiri,2,Moderate-gap Mixed,5.763578650364449,83.4,44.58178932518223
+maharashtra,sangli,2,Moderate-gap Mixed,13.07936809146544,87.7,50.38968404573272
+maharashtra,satara,2,Moderate-gap Mixed,8.536385265403231,88.6,48.56819263270161
+maharashtra,sindhudurg,2,Moderate-gap Mixed,5.893671999560174,86.8,46.34683599978008
+maharashtra,solapur,2,Moderate-gap Mixed,8.900012726424299,79.5,44.20000636321215
+maharashtra,thane,2,Moderate-gap Mixed,8.410569907316104,77.3,42.85528495365805
+maharashtra,wardha,2,Moderate-gap Mixed,8.086361807697466,72.9,40.49318090384874
+maharashtra,washim,2,Moderate-gap Mixed,13.826161854473279,75.9,44.863080927236645
+maharashtra,yavatmal,2,Moderate-gap Mixed,9.818510534733328,71.0,40.40925526736666
+manipur,bishnupur,2,Moderate-gap Mixed,0.15919130815457475,90.7,45.42959565407729
+manipur,chandel,3,Moderate-gap Mixed,1.5777308813184379,83.9,42.738865440659225
+manipur,churachandpur,3,Moderate-gap Mixed,2.2695973117390955,81.8,42.034798655869544
+manipur,imphal east,2,Moderate-gap Mixed,0.2423612914394759,93.0,46.62118064571974
+manipur,imphal west,0,High-gap Rural Low-literacy,1.3834521061259997,84.3,42.841726053063
+manipur,senapati,3,Moderate-gap Mixed,0.8925422533300933,84.6,42.74627112666504
+manipur,tamenglong,3,Moderate-gap Mixed,0.7313482452391231,83.2,41.96567412261956
+manipur,thoubal,2,Moderate-gap Mixed,1.4061133412571944,80.9,41.1530566706286
+manipur,ukhrul,3,Moderate-gap Mixed,0.3232375472735006,83.0,41.661618773636754
+meghalaya,east garo hills,3,Moderate-gap Mixed,0.228676746646661,28.099999999999994,14.164338373323327
+meghalaya,east jantia hills,3,Moderate-gap Mixed,2.122913068508925,25.900000000000006,14.011456534254465
+meghalaya,east khasi hills,3,Moderate-gap Mixed,2.015713233488829,52.9,27.457856616744415
+meghalaya,north garo hills,3,Moderate-gap Mixed,0.2286767466466283,39.2,19.714338373323315
+meghalaya,ribhoi,3,Moderate-gap Mixed,2.122913068508925,33.2,17.661456534254462
+meghalaya,south garo hills,3,Moderate-gap Mixed,0.014492333555549115,20.5,10.257246166777774
+meghalaya,south west garo hills,3,Moderate-gap Mixed,0.8522670503367099,24.900000000000006,12.876133525168358
+meghalaya,south west khasi hills,3,Moderate-gap Mixed,1.422880963408983,27.700000000000003,14.561440481704492
+meghalaya,west garo hills,3,Moderate-gap Mixed,0.8522670503366957,22.099999999999994,11.476133525168345
+meghalaya,west jaintia hills,3,Moderate-gap Mixed,2.122913068508925,34.400000000000006,18.261456534254464
+meghalaya,west khasi hills,3,Moderate-gap Mixed,1.4228809634089594,39.9,20.661440481704478
+mizoram,aizawl,3,Moderate-gap Mixed,0.06716866405061449,62.5,31.283584332025306
+mizoram,champhai,3,Moderate-gap Mixed,0.06173040059781804,35.099999999999994,17.580865200298906
+mizoram,chandel,3,Moderate-gap Mixed,0.1368843207415768,83.9,42.01844216037079
+mizoram,kolasib,3,Moderate-gap Mixed,0.2196704942586121,38.9,19.559835247129307
+mizoram,lawngtlai,3,Moderate-gap Mixed,0.015183261972002066,68.7,34.357591630986
+mizoram,lunglei,3,Moderate-gap Mixed,0.11200488748600175,53.5,26.806002443743
+mizoram,mamit,3,Moderate-gap Mixed,0.060154550923140995,38.3,19.18007727546157
+mizoram,saiha,3,Moderate-gap Mixed,0.0,47.35,23.675
+mizoram,serchhip,3,Moderate-gap Mixed,0.0,41.2,20.6
+nagaland,dimapur,2,Moderate-gap Mixed,0.6217120994739359,94.3,47.46085604973697
+nagaland,kiphire,3,Moderate-gap Mixed,1.1335121571342044,91.2,46.166756078567104
+nagaland,kohima,3,Moderate-gap Mixed,2.603620771796093,73.3,37.95181038589804
+nagaland,longleng,3,Moderate-gap Mixed,0.8016682113067655,61.7,31.250834105653386
+nagaland,mokokchung,3,Moderate-gap Mixed,0.003041640052316209,77.7,38.85152082002616
+nagaland,mon,3,Moderate-gap Mixed,1.2152207572842866,60.7,30.957610378642144
+nagaland,peren,3,Moderate-gap Mixed,0.22828568322643766,94.6,47.41414284161321
+nagaland,phek,3,Moderate-gap Mixed,0.3761590948854027,75.1,37.7380795474427
+nagaland,tuensang,3,Moderate-gap Mixed,0.8046840753960841,78.0,39.40234203769804
+nagaland,wokha,3,Moderate-gap Mixed,1.1111782112446404,79.4,40.25558910562232
+nagaland,zunheboto,3,Moderate-gap Mixed,0.9004739336492891,81.9,41.40023696682465
+odisha,anugul,1,Moderate-gap Rural,5.826921797742844,36.9,21.36346089887142
+odisha,balangir,1,Moderate-gap Rural,13.528407775977783,56.0,34.76420388798889
+odisha,baleshwar,1,Moderate-gap Rural,6.625052570998517,59.4,33.012526285499256
+odisha,bargarh,1,Moderate-gap Rural,6.227509816562152,54.5,30.363754908281077
+odisha,baudh,1,Moderate-gap Rural,9.079846934691068,55.3,32.18992346734553
+odisha,bhadrak,1,Moderate-gap Rural,9.079846934691068,55.1,32.089923467345535
+odisha,cuttack,2,Moderate-gap Mixed,6.0743227206455765,57.7,31.88716136032279
+odisha,debagarh,1,Moderate-gap Rural,9.079846934691068,42.5,25.789923467345535
+odisha,dhenkanal,1,Moderate-gap Rural,7.221292996872955,44.8,26.010646498436476
+odisha,gajapati,0,High-gap Rural Low-literacy,7.772659095778874,60.4,34.086329547889434
+odisha,ganjam,1,Moderate-gap Rural,7.820041369800046,48.1,27.960020684900023
+odisha,jagatsinghapur,1,Moderate-gap Rural,8.225246296690056,43.2,25.71262314834503
+odisha,jajapur,1,Moderate-gap Rural,8.53421428448528,46.1,27.31710714224264
+odisha,jharsuguda,3,Moderate-gap Mixed,3.811101905550953,62.3,33.05555095277548
+odisha,kalahandi,1,Moderate-gap Rural,13.758573919782988,51.4,32.57928695989149
+odisha,kandhamal,1,Moderate-gap Rural,13.660852122956072,45.5,29.580426061478036
+odisha,kendrapara,1,Moderate-gap Rural,9.966382559679445,50.0,29.983191279839723
+odisha,kendujhar,1,Moderate-gap Rural,9.509075078695332,56.7,33.10453753934767
+odisha,khordha,2,Moderate-gap Mixed,6.639792240009303,56.8,31.71989612000465
+odisha,koraput,1,Moderate-gap Rural,13.471809626285545,45.4,29.43590481314277
+odisha,malkangiri,0,High-gap Rural Low-literacy,18.086461526213128,53.0,35.543230763106564
+odisha,mayurbhanj,1,Moderate-gap Rural,11.102212808316835,53.5,32.30110640415842
+odisha,nabarangpur,1,Moderate-gap Rural,7.344022860771552,51.6,29.472011430385777
+odisha,nayagarh,1,Moderate-gap Rural,6.496207706514139,50.7,28.598103853257072
+odisha,nuapada,1,Moderate-gap Rural,11.03,54.7,32.865
+odisha,puri,1,Moderate-gap Rural,7.795578923003157,38.5,23.147789461501578
+odisha,rayagada,0,High-gap Rural Low-literacy,11.252008262565987,54.5,32.876004131283
+odisha,sambalpur,1,Moderate-gap Rural,11.680503864872602,50.7,31.190251932436304
+odisha,subarnapur,1,Moderate-gap Rural,9.079846934691068,54.2,31.639923467345536
+odisha,sundargarh,3,Moderate-gap Mixed,9.03772225700686,60.7,34.86886112850343
+puducherry,karaikal,2,Moderate-gap Mixed,11.937196952205033,73.1,42.51859847610251
+puducherry,mahe,2,Moderate-gap Mixed,11.965849971096981,76.4,44.182924985548496
+puducherry,puducherry,2,Moderate-gap Mixed,11.977489448178833,68.7,40.338744724089416
+puducherry,yanam,2,Moderate-gap Mixed,11.965849971096981,70.8,41.38292498554849
+punjab,amritsar,2,Moderate-gap Mixed,26.787412055523863,73.8,50.29370602776193
+punjab,barnala,2,Moderate-gap Mixed,13.87463431010503,79.3,46.58731715505252
+punjab,bathinda,2,Moderate-gap Mixed,14.40713670751589,79.9,47.15356835375795
+punjab,faridkot,0,High-gap Rural Low-literacy,21.59758615213594,79.6,50.59879307606796
+punjab,fatehgarh sahib,2,Moderate-gap Mixed,6.297743513922625,64.9,35.598871756961316
+punjab,fazilka,2,Moderate-gap Mixed,15.73643901512754,79.4,47.568219507563775
+punjab,firozepur,0,High-gap Rural Low-literacy,19.227314795435777,79.0,49.11365739771789
+punjab,gurdaspur,2,Moderate-gap Mixed,37.21889894757046,76.5,56.85944947378523
+punjab,hoshiarpur,2,Moderate-gap Mixed,20.36230558096981,72.3,46.33115279048491
+punjab,jalandhar,2,Moderate-gap Mixed,9.872228895926613,74.1,41.9861144479633
+punjab,kapurthala,2,Moderate-gap Mixed,9.112682041178969,79.3,44.206341020589484
+punjab,ludhiana,2,Moderate-gap Mixed,14.216513877274089,74.8,44.50825693863705
+punjab,mansa,0,High-gap Rural Low-literacy,17.337031900138697,81.6,49.468515950069346
+punjab,moga,0,High-gap Rural Low-literacy,18.447080067304142,76.3,47.37354003365207
+punjab,muktsar,0,High-gap Rural Low-literacy,19.227314795435777,76.1,47.663657397717884
+punjab,pathankot,2,Moderate-gap Mixed,12.91928558093223,73.0,42.95964279046611
+punjab,patiala,2,Moderate-gap Mixed,19.888055094453513,66.2,43.04402754722676
+punjab,rupnagar,2,Moderate-gap Mixed,11.914986139044409,62.2,37.05749306952221
+punjab,sahibzada ajit singh nagar,2,Moderate-gap Mixed,19.227314795435777,69.0,44.11365739771789
+punjab,sangrur,2,Moderate-gap Mixed,12.388847901215405,81.3,46.8444239506077
+punjab,shahid bhagat singh nagar,2,Moderate-gap Mixed,15.13660062565172,76.7,45.91830031282586
+punjab,tarn taran,0,High-gap Rural Low-literacy,26.405410917000882,75.0,50.70270545850044
+rajasthan,ajmer,1,Moderate-gap Rural,5.642235916262401,11.299999999999997,8.471117958131199
+rajasthan,alwar,1,Moderate-gap Rural,13.436057267621127,19.200000000000003,16.318028633810563
+rajasthan,banswara,1,Moderate-gap Rural,7.191747335484503,15.799999999999997,11.49587366774225
+rajasthan,baran,1,Moderate-gap Rural,12.267982210859897,10.5,11.38399110542995
+rajasthan,barmer,1,Moderate-gap Rural,5.061731867142898,2.200000000000003,3.6308659335714504
+rajasthan,bharatpur,1,Moderate-gap Rural,13.715113548412702,15.200000000000003,14.457556774206353
+rajasthan,bhilwara,1,Moderate-gap Rural,8.194394878886559,10.900000000000006,9.547197439443282
+rajasthan,bikaner,1,Moderate-gap Rural,15.709042987244775,12.599999999999994,14.154521493622385
+rajasthan,bundi,1,Moderate-gap Rural,8.221343281345977,12.299999999999997,10.260671640672987
+rajasthan,chittorgarh,1,Moderate-gap Rural,13.920574566962399,9.400000000000006,11.660287283481203
+rajasthan,churu,1,Moderate-gap Rural,6.1152005186979155,18.099999999999994,12.107600259348954
+rajasthan,dausa,1,Moderate-gap Rural,18.32607674905024,8.799999999999997,13.563038374525119
+rajasthan,dhaulpur,1,Moderate-gap Rural,17.727166215767966,11.0,14.363583107883983
+rajasthan,dungarpur,1,Moderate-gap Rural,6.1001316646939125,2.5,4.300065832346956
+rajasthan,ganganagar,1,Moderate-gap Rural,7.346192930411444,14.700000000000003,11.023096465205724
+rajasthan,hanumangarh,1,Moderate-gap Rural,10.658562212606343,11.0,10.82928110630317
+rajasthan,jaipur,1,Moderate-gap Rural,19.06038532315055,18.5,18.780192661575274
+rajasthan,jaisalmer,1,Moderate-gap Rural,4.154201919723971,6.299999999999997,5.227100959861984
+rajasthan,jalor,1,Moderate-gap Rural,17.727166215767966,3.4000000000000057,10.563583107883986
+rajasthan,jhalawar,1,Moderate-gap Rural,11.844430650498756,6.400000000000006,9.122215325249382
+rajasthan,jhunjhunun,1,Moderate-gap Rural,17.727166215767966,13.900000000000006,15.813583107883986
+rajasthan,jodhpur,1,Moderate-gap Rural,6.107736732052175,12.5,9.303868366026087
+rajasthan,karauli,1,Moderate-gap Rural,9.803510510567742,13.599999999999994,11.701755255283867
+rajasthan,kota,1,Moderate-gap Rural,6.576598311218336,19.099999999999994,12.838299155609166
+rajasthan,nagaur,1,Moderate-gap Rural,6.8653063512179635,10.0,8.432653175608982
+rajasthan,pali,1,Moderate-gap Rural,14.572228746950945,3.799999999999997,9.18611437347547
+rajasthan,pratapgarh,1,Moderate-gap Rural,11.389165559982294,15.5,13.444582779991148
+rajasthan,rajsamand,1,Moderate-gap Rural,15.380891607622232,6.799999999999997,11.090445803811114
+rajasthan,sawai madhopur,1,Moderate-gap Rural,14.175721872901532,19.5,16.837860936450767
+rajasthan,sikar,1,Moderate-gap Rural,10.914214151534127,17.599999999999994,14.25710707576706
+rajasthan,sirohi,1,Moderate-gap Rural,14.376765254463098,8.0,11.18838262723155
+rajasthan,tonk,1,Moderate-gap Rural,16.296557989300496,15.5,15.898278994650248
+rajasthan,udaipur,1,Moderate-gap Rural,14.245781336349264,5.700000000000003,9.972890668174633
+sikkim,east district,2,Moderate-gap Mixed,10.18057083683904,70.1,40.140285418419516
+sikkim,north district,3,Moderate-gap Mixed,1.7885705976443216,75.5,38.64428529882216
+sikkim,south district,2,Moderate-gap Mixed,6.669982316534042,79.2,42.934991158267025
+sikkim,west district,3,Moderate-gap Mixed,6.0242637525467675,80.1,43.062131876273384
+tamil nadu,ariyalur,1,Moderate-gap Rural,3.603294440631435,28.900000000000006,16.25164722031572
+tamil nadu,chennai,2,Moderate-gap Mixed,2.687899562224472,41.8,22.243949781112235
+tamil nadu,coimbatore,2,Moderate-gap Mixed,8.618596407987832,39.0,23.809298203993915
+tamil nadu,cuddalore,1,Moderate-gap Rural,2.801659060739171,35.599999999999994,19.20082953036958
+tamil nadu,dharmapuri,1,Moderate-gap Rural,5.299405919772883,24.5,14.899702959886442
+tamil nadu,dindigul,1,Moderate-gap Rural,3.3546767640239104,28.099999999999994,15.727338382011952
+tamil nadu,erode,1,Moderate-gap Rural,7.951130792345405,22.299999999999997,15.125565396172702
+tamil nadu,kancheepuram,2,Moderate-gap Mixed,2.6827003923766792,40.3,21.49135019618834
+tamil nadu,kanniyakumari,2,Moderate-gap Mixed,4.550446733355101,35.900000000000006,20.225223366677554
+tamil nadu,karur,1,Moderate-gap Rural,3.613791811112152,25.400000000000006,14.506895905556078
+tamil nadu,krishnagiri,1,Moderate-gap Rural,3.7533144372314164,26.400000000000006,15.076657218615711
+tamil nadu,madurai,2,Moderate-gap Mixed,5.083943043549465,33.7,19.391971521774735
+tamil nadu,nagapattinam,1,Moderate-gap Rural,2.165306459928248,29.099999999999994,15.632653229964122
+tamil nadu,namakkal,2,Moderate-gap Mixed,3.0707193780233966,31.200000000000003,17.1353596890117
+tamil nadu,perambalur,1,Moderate-gap Rural,5.360371996900025,24.5,14.930185998450012
+tamil nadu,pudukkottai,1,Moderate-gap Rural,2.221595015416458,27.099999999999994,14.660797507708226
+tamil nadu,ramanathapuram,1,Moderate-gap Rural,3.3767255994187457,30.299999999999997,16.838362799709373
+tamil nadu,salem,2,Moderate-gap Mixed,4.297520661157025,32.5,18.39876033057851
+tamil nadu,sivaganga,2,Moderate-gap Mixed,4.011677556451453,32.3,18.155838778225725
+tamil nadu,thanjavur,2,Moderate-gap Mixed,2.01336975904567,29.400000000000006,15.706684879522838
+tamil nadu,the nilgiris,2,Moderate-gap Mixed,11.441090555014606,25.5,18.470545277507302
+tamil nadu,theni,2,Moderate-gap Mixed,10.570041465610105,32.599999999999994,21.58502073280505
+tamil nadu,thiruvallur,2,Moderate-gap Mixed,2.6827003923766792,42.6,22.64135019618834
+tamil nadu,thiruvarur,1,Moderate-gap Rural,3.9337541485000327,24.799999999999997,14.366877074250015
+tamil nadu,thoothukkudi,2,Moderate-gap Mixed,2.6827003923766792,42.2,22.441350196188342
+tamil nadu,tiruchirappalli,2,Moderate-gap Mixed,2.545017452208687,32.2,17.372508726104346
+tamil nadu,tirunelveli,2,Moderate-gap Mixed,3.6384270614876755,38.7,21.16921353074384
+tamil nadu,tiruppur,2,Moderate-gap Mixed,6.832966455301113,40.1,23.466483227650556
+tamil nadu,tiruvannamalai,1,Moderate-gap Rural,1.8880080215156543,30.400000000000006,16.14400401075783
+tamil nadu,vellore,1,Moderate-gap Rural,2.726974116410461,28.599999999999994,15.663487058205227
+tamil nadu,viluppuram,1,Moderate-gap Rural,2.6827003923766792,22.400000000000006,12.541350196188343
+tamil nadu,virudhunagar,2,Moderate-gap Mixed,6.1516847039191145,48.7,27.42584235195956
+telangana,adilabad,1,Moderate-gap Rural,11.038350670510088,36.4,23.719175335255045
+telangana,bhadradri kothagudem,1,Moderate-gap Rural,11.038350670510088,40.6,25.819175335255046
+telangana,hyderabad,2,Moderate-gap Mixed,11.038350670510088,51.1,31.069175335255046
+telangana,jagitial,1,Moderate-gap Rural,11.038350670510088,40.8,25.91917533525504
+telangana,jangoan,1,Moderate-gap Rural,11.038350670510088,28.299999999999997,19.66917533525504
+telangana,jayashankar bhupalapally,1,Moderate-gap Rural,11.038350670510088,28.5,19.769175335255042
+telangana,jogulamba gadwal,1,Moderate-gap Rural,11.038350670510088,38.2,24.619175335255044
+telangana,kamareddy,1,Moderate-gap Rural,11.038350670510088,33.5,22.269175335255042
+telangana,karimnagar,1,Moderate-gap Rural,11.038350670510088,41.4,26.219175335255045
+telangana,khammam,1,Moderate-gap Rural,11.038350670510088,39.6,25.319175335255046
+telangana,komaram bheem asifabad,1,Moderate-gap Rural,11.038350670510088,36.4,23.719175335255045
+telangana,mahabubabad,1,Moderate-gap Rural,11.038350670510088,30.700000000000003,20.869175335255044
+telangana,mahabubnagar,1,Moderate-gap Rural,11.038350670510088,29.700000000000003,20.369175335255044
+telangana,mancherial,1,Moderate-gap Rural,11.038350670510088,35.599999999999994,23.31917533525504
+telangana,medak,1,Moderate-gap Rural,11.038350670510088,38.8,24.91917533525504
+telangana,medchalmalkajgiri,1,Moderate-gap Rural,11.038350670510088,46.2,28.619175335255044
+telangana,nagarkurnool,1,Moderate-gap Rural,11.038350670510088,31.400000000000006,21.219175335255045
+telangana,nalgonda,1,Moderate-gap Rural,11.038350670510088,35.2,23.119175335255044
+telangana,nirmal,1,Moderate-gap Rural,11.038350670510088,50.1,30.569175335255046
+telangana,nizamabad,1,Moderate-gap Rural,11.038350670510088,47.7,29.369175335255044
+telangana,peddapalli,1,Moderate-gap Rural,11.038350670510088,40.9,25.969175335255045
+telangana,rajanna sircilla,1,Moderate-gap Rural,11.038350670510088,37.2,24.119175335255044
+telangana,ranga reddy,1,Moderate-gap Rural,11.038350670510088,41.7,26.369175335255044
+telangana,rangareddy,2,Moderate-gap Mixed,11.038350670510088,38.0,24.519175335255042
+telangana,sangareddy,1,Moderate-gap Rural,11.038350670510088,41.9,26.469175335255045
+telangana,siddipet,1,Moderate-gap Rural,11.038350670510088,39.1,25.069175335255046
+telangana,suryapet,1,Moderate-gap Rural,11.038350670510088,36.9,23.969175335255045
+telangana,vikarabad,1,Moderate-gap Rural,11.038350670510088,40.4,25.719175335255045
+telangana,wanaparthy,1,Moderate-gap Rural,11.038350670510088,29.900000000000006,20.469175335255045
+telangana,warangal rural,1,Moderate-gap Rural,11.038350670510088,28.0,19.519175335255042
+telangana,warangal urban,1,Moderate-gap Rural,11.038350670510088,38.0,24.519175335255042
+telangana,yadadri bhuvanagiri,1,Moderate-gap Rural,11.038350670510088,34.7,22.869175335255044
+tripura,dhalai,3,Moderate-gap Mixed,1.7492605343548466,55.8,28.77463026717742
+tripura,gomati,3,Moderate-gap Mixed,1.4491509838778889,70.1,35.77457549193894
+tripura,khowai,3,Moderate-gap Mixed,2.432041327586475,55.9,29.166020663793237
+tripura,north tripura,3,Moderate-gap Mixed,1.4968889468026192,71.3,36.398444473401305
+tripura,sepahijala,3,Moderate-gap Mixed,3.9790786562059948,68.4,36.189539328103
+tripura,south tripura,3,Moderate-gap Mixed,1.9673260038467932,62.7,32.3336630019234
+tripura,unakoti,3,Moderate-gap Mixed,1.2923451666741848,72.0,36.64617258333709
+tripura,west tripura,2,Moderate-gap Mixed,2.360002808134229,71.9,37.130001404067116
+uttar pradesh,agra,0,High-gap Rural Low-literacy,18.572416394267037,90.6,54.586208197133516
+uttar pradesh,aligarh,0,High-gap Rural Low-literacy,15.744413724940232,82.4,49.07220686247012
+uttar pradesh,ambedkar nagar,0,High-gap Rural Low-literacy,14.987180776191433,77.0,45.99359038809572
+uttar pradesh,amethi,0,High-gap Rural Low-literacy,15.893792537109155,79.1,47.49689626855457
+uttar pradesh,amroha,0,High-gap Rural Low-literacy,17.42337152378615,91.7,54.561685761893074
+uttar pradesh,auraiya,0,High-gap Rural Low-literacy,13.276591533265705,81.6,47.43829576663285
+uttar pradesh,ayodhya,0,High-gap Rural Low-literacy,15.201638486626075,80.2,47.70081924331304
+uttar pradesh,azamgarh,0,High-gap Rural Low-literacy,12.737019049131318,91.0,51.86850952456566
+uttar pradesh,baghpat,0,High-gap Rural Low-literacy,8.613264427217917,87.5,48.05663221360896
+uttar pradesh,bahraich,0,High-gap Rural Low-literacy,10.654166497927887,89.9,50.27708324896395
+uttar pradesh,ballia,0,High-gap Rural Low-literacy,16.17664815262014,89.4,52.788324076310076
+uttar pradesh,balrampur,0,High-gap Rural Low-literacy,18.8591139998669,87.0,52.92955699993345
+uttar pradesh,banda,0,High-gap Rural Low-literacy,12.997071423385048,86.7,49.84853571169253
+uttar pradesh,bara banki,0,High-gap Rural Low-literacy,16.550659925142817,85.4,50.97532996257141
+uttar pradesh,bareilly,0,High-gap Rural Low-literacy,18.836510972625,81.3,50.068255486312495
+uttar pradesh,basti,0,High-gap Rural Low-literacy,10.392479516247501,84.2,47.296239758123754
+uttar pradesh,bijnor,0,High-gap Rural Low-literacy,17.190085700814482,81.2,49.19504285040724
+uttar pradesh,budaun,0,High-gap Rural Low-literacy,21.58663493396799,86.4,53.993317466983996
+uttar pradesh,bulandshahr,0,High-gap Rural Low-literacy,18.647942521227957,79.5,49.07397126061398
+uttar pradesh,chandauli,0,High-gap Rural Low-literacy,15.1313579251495,71.9,43.51567896257475
+uttar pradesh,chitrakoot,0,High-gap Rural Low-literacy,14.371821435298548,82.6,48.48591071764927
+uttar pradesh,deoria,0,High-gap Rural Low-literacy,23.791268406096616,89.5,56.64563420304831
+uttar pradesh,etah,0,High-gap Rural Low-literacy,12.574708179601702,87.2,49.88735408980085
+uttar pradesh,etawah,2,Moderate-gap Mixed,10.393270241850683,82.1,46.24663512092534
+uttar pradesh,farrukhabad,0,High-gap Rural Low-literacy,13.085322555433981,86.5,49.79266127771699
+uttar pradesh,fatehpur,0,High-gap Rural Low-literacy,16.207511691818137,83.2,49.70375584590907
+uttar pradesh,firozabad,0,High-gap Rural Low-literacy,12.742857142857142,86.6,49.67142857142857
+uttar pradesh,gautam buddha nagar,2,Moderate-gap Mixed,5.245901639344262,76.2,40.722950819672135
+uttar pradesh,ghaziabad,0,High-gap Rural Low-literacy,100.0,80.0,90.0
+uttar pradesh,ghazipur,0,High-gap Rural Low-literacy,18.552371931486306,89.4,53.976185965743156
+uttar pradesh,gonda,0,High-gap Rural Low-literacy,12.954232609889521,86.6,49.777116304944755
+uttar pradesh,gorakhpur,0,High-gap Rural Low-literacy,28.08111141444475,82.1,55.09055570722237
+uttar pradesh,hamirpur,0,High-gap Rural Low-literacy,9.097168844478606,78.1,43.5985844222393
+uttar pradesh,hapur,0,High-gap Rural Low-literacy,5.707602339181286,85.1,45.40380116959064
+uttar pradesh,hardoi,0,High-gap Rural Low-literacy,14.14227935128512,84.0,49.07113967564256
+uttar pradesh,hathras,0,High-gap Rural Low-literacy,22.158318519293108,89.1,55.62915925964655
+uttar pradesh,jalaun,0,High-gap Rural Low-literacy,12.174835743148373,82.4,47.28741787157419
+uttar pradesh,jaunpur,0,High-gap Rural Low-literacy,13.147445693701561,88.0,50.57372284685078
+uttar pradesh,jhansi,0,High-gap Rural Low-literacy,14.328744177845692,88.6,51.46437208892284
+uttar pradesh,kannauj,0,High-gap Rural Low-literacy,14.973302533419169,84.7,49.83665126670959
+uttar pradesh,kanpur dehat,0,High-gap Rural Low-literacy,18.147044034192948,82.1,50.12352201709647
+uttar pradesh,kanpur nagar,2,Moderate-gap Mixed,20.660761311946374,83.9,52.28038065597319
+uttar pradesh,kasganj,0,High-gap Rural Low-literacy,13.002713494672285,84.9,48.95135674733615
+uttar pradesh,kaushambi,0,High-gap Rural Low-literacy,23.495906016375933,79.8,51.64795300818797
+uttar pradesh,kheri,0,High-gap Rural Low-literacy,14.262651870276475,78.0,46.131325935138236
+uttar pradesh,kushinagar,0,High-gap Rural Low-literacy,16.550659925142817,84.4,50.47532996257141
+uttar pradesh,lalitpur,0,High-gap Rural Low-literacy,6.14250311317149,88.3,47.22125155658574
+uttar pradesh,lucknow,2,Moderate-gap Mixed,12.842673534583096,84.2,48.52133676729155
+uttar pradesh,mahoba,0,High-gap Rural Low-literacy,12.01196922200057,83.8,47.905984611000285
+uttar pradesh,mahrajganj,0,High-gap Rural Low-literacy,16.550659925142817,81.8,49.17532996257141
+uttar pradesh,mainpuri,0,High-gap Rural Low-literacy,13.236686583733306,83.9,48.568343291866654
+uttar pradesh,mathura,0,High-gap Rural Low-literacy,18.638390224340075,89.2,53.91919511217004
+uttar pradesh,mau,0,High-gap Rural Low-literacy,12.740821690674252,84.0,48.370410845337126
+uttar pradesh,meerut,2,Moderate-gap Mixed,8.535717110988054,81.6,45.06785855549403
+uttar pradesh,mirzapur,0,High-gap Rural Low-literacy,15.065966141272622,85.0,50.03298307063631
+uttar pradesh,moradabad,0,High-gap Rural Low-literacy,16.04057839351957,82.9,49.470289196759786
+uttar pradesh,muzaffarnagar,0,High-gap Rural Low-literacy,12.49223821620096,91.8,52.14611910810048
+uttar pradesh,pilibhit,0,High-gap Rural Low-literacy,18.69784691459771,78.6,48.64892345729885
+uttar pradesh,pratapgarh,0,High-gap Rural Low-literacy,17.024671916010497,85.1,51.06233595800525
+uttar pradesh,prayagraj,0,High-gap Rural Low-literacy,14.885369558764472,79.4,47.142684779382236
+uttar pradesh,rae bareli,0,High-gap Rural Low-literacy,16.00362436530867,83.2,49.601812182654335
+uttar pradesh,rampur,0,High-gap Rural Low-literacy,14.985817838008195,86.9,50.9429089190041
+uttar pradesh,saharanpur,0,High-gap Rural Low-literacy,17.70362101717486,88.2,52.95181050858743
+uttar pradesh,sambhal,0,High-gap Rural Low-literacy,19.398778769375294,86.3,52.84938938468765
+uttar pradesh,sant kabir nagar,0,High-gap Rural Low-literacy,16.550659925142817,79.6,48.0753299625714
+uttar pradesh,sant ravidas nagar (bhadohi),0,High-gap Rural Low-literacy,16.550659925142817,81.2,48.87532996257141
+uttar pradesh,shahjahanpur,0,High-gap Rural Low-literacy,24.08327418973267,85.8,54.94163709486634
+uttar pradesh,shamli,0,High-gap Rural Low-literacy,20.585048754062836,85.2,52.89252437703142
+uttar pradesh,shrawasti,0,High-gap Rural Low-literacy,16.550659925142817,86.5,51.525329962571405
+uttar pradesh,siddharthnagar,0,High-gap Rural Low-literacy,16.550659925142817,87.8,52.17532996257141
+uttar pradesh,sitapur,0,High-gap Rural Low-literacy,16.072711223421287,76.8,46.43635561171064
+uttar pradesh,sonbhadra,0,High-gap Rural Low-literacy,11.769517917085876,80.3,46.03475895854294
+uttar pradesh,sultanpur,0,High-gap Rural Low-literacy,17.545758005736978,79.3,48.422879002868484
+uttar pradesh,unnao,0,High-gap Rural Low-literacy,21.605976063032198,84.7,53.1529880315161
+uttar pradesh,varanasi,2,Moderate-gap Mixed,13.194344596213755,87.2,50.19717229810688
+uttarakhand,almora,1,Moderate-gap Rural,15.421896697252702,34.0,24.710948348626353
+uttarakhand,bageshwar,1,Moderate-gap Rural,9.438675548589341,28.099999999999994,18.76933777429467
+uttarakhand,chamoli,1,Moderate-gap Rural,2.191762231118952,28.900000000000006,15.545881115559478
+uttarakhand,champawat,1,Moderate-gap Rural,5.551484060095273,34.3,19.925742030047637
+uttarakhand,dehradun,2,Moderate-gap Mixed,9.621788772597526,32.7,21.160894386298764
+uttarakhand,garhwal,1,Moderate-gap Rural,13.060321867282207,37.3,25.1801609336411
+uttarakhand,hardwar,2,Moderate-gap Mixed,13.060321867282207,53.4,33.2301609336411
+uttarakhand,nainital,2,Moderate-gap Mixed,10.578342353625263,39.2,24.88917117681263
+uttarakhand,pithoragarh,1,Moderate-gap Rural,2.717525569445131,27.200000000000003,14.958762784722566
+uttarakhand,rudraprayag,1,Moderate-gap Rural,13.060321867282207,23.400000000000006,18.230160933641105
+uttarakhand,tehri garhwal,1,Moderate-gap Rural,10.031601591501838,28.799999999999997,19.41580079575092
+uttarakhand,udham singh nagar,1,Moderate-gap Rural,13.060321867282207,41.0,27.030160933641103
+uttarakhand,uttarkashi,1,Moderate-gap Rural,13.060321867282207,19.700000000000003,16.380160933641104
+west bengal,bankura,1,Moderate-gap Rural,9.564009499484698,56.6,33.08200474974235
+west bengal,barddhaman,2,Moderate-gap Mixed,7.783441657661518,71.7,39.74172082883076
+west bengal,birbhum,1,Moderate-gap Rural,8.633178564336305,62.3,35.46658928216815
+west bengal,dakshin dinajpur,3,Moderate-gap Mixed,7.783441657661518,71.7,39.74172082883076
+west bengal,darjiling,2,Moderate-gap Mixed,7.783441657661518,73.7,40.74172082883076
+west bengal,hooghly,2,Moderate-gap Mixed,9.907224073008573,73.5,41.70361203650429
+west bengal,howrah,2,Moderate-gap Mixed,5.142588728399411,79.9,42.52129436419971
+west bengal,jalpaiguri,3,Moderate-gap Mixed,4.042823637740576,64.2,34.12141181887029
+west bengal,koch bihar,3,Moderate-gap Mixed,7.783441657661518,64.0,35.891720828830756
+west bengal,kolkata,2,Moderate-gap Mixed,7.783441657661518,78.9,43.34172082883076
+west bengal,maldah,0,High-gap Rural Low-literacy,9.243891660191734,71.0,40.12194583009587
+west bengal,murshidabad,0,High-gap Rural Low-literacy,5.797038661365629,71.6,38.698519330682814
+west bengal,nadia,0,High-gap Rural Low-literacy,12.693894976519141,77.0,44.84694748825957
+west bengal,north 24 parganas,2,Moderate-gap Mixed,7.783441657661518,71.7,39.74172082883076
+west bengal,north twenty four pargana,2,Moderate-gap Mixed,7.783441657661518,69.3,38.541720828830755
+west bengal,paschim barddhaman,0,High-gap Rural Low-literacy,7.783441657661518,78.2,42.99172082883076
+west bengal,paschim medinipur,0,High-gap Rural Low-literacy,7.783441657661518,74.2,40.99172082883076
+west bengal,purba medinipur,2,Moderate-gap Mixed,7.783441657661518,78.5,43.141720828830756
+west bengal,puruliya,0,High-gap Rural Low-literacy,7.783441657661518,64.4,36.09172082883076
+west bengal,south 24 parganas,2,Moderate-gap Mixed,7.783441657661518,71.7,39.74172082883076
+west bengal,south twenty four pargana,2,Moderate-gap Mixed,7.783441657661518,63.3,35.541720828830755
+west bengal,uttar dinajpur,0,High-gap Rural Low-literacy,7.783441657661518,79.0,43.391720828830756
