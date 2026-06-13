@@ -235,6 +235,8 @@ for nb in nbs:
 "
 ```
 
+> **Note:** The `india_districts.geojson` file is required for notebook 05 and is provided separately due to file size (see [Data Sources](docs/data_sources.md)). If `papermill` fails with "No such kernel", run `python -m ipykernel install --user --name=python3` before executing.
+
 ---
 
 ## Project Structure
@@ -327,6 +329,15 @@ welfare-analytics/
 ## Tech Stack
 
 Python 3.12 | pandas | numpy | scipy | scikit-learn | statsmodels | matplotlib | seaborn | folium | geopandas | libpysal | esda | papermill | jupyter
+
+---
+
+## Team Members
+
+| Name | Role |
+|---|---|
+| Ashish | Data Analysis & Pipeline Validation |
+| Lakshya | Notebook Execution & Reproducibility Testing |
 
 ---
 
